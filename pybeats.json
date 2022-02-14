@@ -1,0 +1,13 @@
+{ 
+    "dest_host": "127.0.0.1",
+    "dest_port": 5400,
+    "max_connection_retry": 5,
+    "sincedb_path": "sincedb.db",
+    "path": "/Users/mrbluesky/code/log_generator/logs/fs_skhms_tgw.dat",
+    "log_level": "INFO",
+    "log_path": "/Users/mrbluesky/code/pybeats/logs/",
+    "prefix": "[fep-alp][daemon-name]",
+    "expiration_term": 24,
+    "file_mon_term": 5,
+    "batch_size": 5
+}
